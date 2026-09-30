@@ -88,13 +88,9 @@ College of Information and Electrical Engineering
 
 **AI-Agent-Harness** — Orchestration and skill framework for governed AI-assisted coding workflows. Python + Markdown.
 
-*2.0 evolving in production use.*
-
 [github.com/MetallicPickaxe/AI-Agent-Harness](https://github.com/MetallicPickaxe/AI-Agent-Harness)
 
 **BigInteger** — Re-engineered Microsoft’s BigInteger from .NET Framework 4.8: internal representation unified onto 64-bit high-precision arrays, engineering and mathematical design simplified and re-optimised, MSTest suite under continuous integration. C# 8.0 (.NET Core 3.0 Preview 7).
-
-*2.0 in development — broader coverage, higher throughput, and a more settled design.*
 
 [github.com/MetallicPickaxe/BigInteger](https://github.com/MetallicPickaxe/BigInteger)
 
@@ -102,7 +98,7 @@ College of Information and Electrical Engineering
 
 **Manju Script Input Method** — Windows 11 input method for learning Manchu script; Text Services Framework through COM interop, with vertical glyph shaping on HarfBuzz and Direct2D rendering. C# (.NET 11).
 
-*1.0.0 release candidate published September 2026.*
+*Initial release in 2026.*
 
 [github.com/MetallicPickaxe/Manju-Script-Input-Method](https://github.com/MetallicPickaxe/Manju-Script-Input-Method)
 
