@@ -17,8 +17,9 @@ English (professional) · Mandarin (native) · Japanese (above JLPT N5)
 
 Perth, Western Australia · November 2025 – present
 
+- Released **Manju IME**, an input method for learning the Manchu script, as the first product line, starting with Windows 11 in 2026
 - Published **AI-Agent-Harness**, an orchestration and skill framework for governed AI-assisted coding workflows: router dispatch over a three-tier governance model, with artifact validation and adversarial critique
-- Carry the full product line in C#, Python and JavaScript from scope and architecture through implementation, test and release, with a multi-agent workflow carrying the load under adversarial review
+- Carry each product in C#, Python and JavaScript from scope and architecture through implementation, test and release, with a multi-agent workflow carrying the load under adversarial review
 - Shipped work spans desktop systems, web applications, low-level components through COM interop, hardware-attached devices and IoT data paths
 - Currently extending into image and audio recognition, high-throughput network transport, forgetting-curve scheduling algorithms, script rendering and typography, mobile applications, and entertainment-oriented interactive software on the Godot engine
 
@@ -84,6 +85,12 @@ Gateway English Course and English Language Bridging Course, both completed
 Shenyang, Manchuria (Mainland China) · September 2012 – June 2016  
 College of Information and Electrical Engineering
 
+## Products
+
+**Manju IME** — Shows every form a Manchu letter can take, one card per form, offers six input schemes, and writes standard Unicode only. On Windows it runs on the Text Services Framework through COM interop, with vertical glyph shaping on HarfBuzz and Direct2D rendering. C# (.NET 11).
+
+[github.com/MetallicPickaxe/Manju-Script-Input-Method](https://github.com/MetallicPickaxe/Manju-Script-Input-Method)
+
 ## Open Source and Projects
 
 **AI-Agent-Harness** — Orchestration and skill framework for governed AI-assisted coding workflows. Python + Markdown.
@@ -99,12 +106,6 @@ College of Information and Electrical Engineering
 [github.com/MetallicPickaxe/BigInteger](https://github.com/MetallicPickaxe/BigInteger)
 
 **Care-Environment Monitoring** — Personal project extending my Curtin capstone work: an end-to-end assisted-living monitoring system that turns environmental sensing into plain-language summaries care staff can act on, running wholly on the local network so no resident data leaves the building. A codebase in the tens of thousands of lines, still live. Python + C# + TypeScript (Raspberry Pi, SQLite, classical machine learning, a locally hosted language model, Next.js).
-
-**Manju Script Input Method** — Windows 11 input method for learning Manchu script; Text Services Framework through COM interop, with vertical glyph shaping on HarfBuzz and Direct2D rendering. C# (.NET 11).
-
-*Initial release in 2026.*
-
-[github.com/MetallicPickaxe/Manju-Script-Input-Method](https://github.com/MetallicPickaxe/Manju-Script-Input-Method)
 
 **Sinitic Kinship Term Calculator** — Derives each address term from word-formation rules, composing 87% of its 90,042 relation chains at runtime; regional variants sit in separate layers labelled by origin. C# (WinUI 3, .NET 11).
 
