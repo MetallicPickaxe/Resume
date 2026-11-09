@@ -30,7 +30,7 @@ New Territories, Hong Kong · February 2023 – February 2024
 
 - Built the Python tooling the group’s computer-vision research ran on, then among the most active fields in applied machine learning, from data preparation through training to result processing, and delivered its demonstration front ends in Gradio
 - Worked inside the model design, training and fine-tuning loop, and ran the group’s academic talks and externally delivered workshops
-- Co-authored *Instance-guided anime editing with a curated large-scale dataset* (The Visual Computer 41(9), Springer, 2025), contributing the packaging and interface work that turned the research code into a usable tool
+- Co-authored *Instance-guided anime editing with a curated large-scale dataset* (The Visual Computer 41(9), Springer, 2025), contributing its public web application for 3D Ken Burns video and per-character style editing
 
 [doi.org/10.1007/s00371-025-03970-1](https://doi.org/10.1007/s00371-025-03970-1)
 
