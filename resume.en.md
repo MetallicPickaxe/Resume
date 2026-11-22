@@ -1,7 +1,7 @@
 # Francis Simpson (GE, Zhongping)
 
 [github.com/MetallicPickaxe](https://github.com/MetallicPickaxe) · [linkedin.com/in/francis-simpson-zhongping-ge-gat-866468124](https://linkedin.com/in/francis-simpson-zhongping-ge-gat-866468124)  
-English (professional) · Mandarin (native) · Japanese (above JLPT N5) · Manchu (learner)
+English (professional) · Mandarin (native) · Japanese (above JLPT N5) · Latin (learner) · Manchu (learner)
 
 **Software Engineer \| C#/.NET \| Industrial, Desktop & Enterprise Systems \| AI-Assisted Development**
 
