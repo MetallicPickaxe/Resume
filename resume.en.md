@@ -1,14 +1,14 @@
 # Francis Simpson (GE, Zhongping)
 
 [github.com/MetallicPickaxe](https://github.com/MetallicPickaxe) · [linkedin.com/in/francis-simpson-zhongping-ge-gat-866468124](https://linkedin.com/in/francis-simpson-zhongping-ge-gat-866468124)  
-English (professional) · Mandarin (native) · Japanese (above JLPT N5)
+English (professional) · Mandarin (native) · Japanese (above JLPT N5) · Manchu (learner)
 
 **Software Engineer \| C#/.NET \| Industrial, Desktop & Enterprise Systems \| AI-Assisted Development**
 
 ## Summary
 
 - Software engineer with six years’ commercial experience within a decade of engineering practice, across industrial control systems, automotive test platforms and enterprise software, built on C#/.NET
-- Independently ships .NET 11 desktop software, Python-based AI prototype applications, hardware and IoT hybrid systems, and external websites across several architectures
+- Independently ships desktop software (.NET 11), Python-based AI prototype applications, hardware and IoT hybrid systems, and external websites across several architectures
 - Published an open-source orchestration and governance suite for AI-assisted development
 
 ## Professional Experience
@@ -28,7 +28,7 @@ Perth, Western Australia · November 2025 – present
 formerly Caritas Institute of Higher Education (CIHE), operating jointly with Caritas Bianchi College of Careers (CIHE & CBCC)  
 New Territories, Hong Kong · February 2023 – February 2024
 
-- Built the Python tooling the group’s computer-vision research ran on, then among the most active fields in applied machine learning, from data preparation through training to result processing, and delivered its demonstration front ends in Gradio
+- Built the Python tooling the group’s computer vision research ran on, then among the most active fields in applied machine learning, from data preparation through training to result processing, and delivered its demonstration front ends in Gradio
 - Worked inside the model design, training and fine-tuning loop, and ran the group’s academic talks and externally delivered workshops
 - Co-authored *Instance-guided anime editing with a curated large-scale dataset* (The Visual Computer 41(9), Springer, 2025), contributing its public web application for 3D Ken Burns video and per-character style editing
 
@@ -38,8 +38,8 @@ New Territories, Hong Kong · February 2023 – February 2024
 
 Suzhou Industrial Park (Suzhou), Mainland China · March 2022 – December 2022
 
-- Designed and optimised the transport layer carrying an internal automotive test platform, covering serialisation, the wire protocol and the network path over FTP, HTTP and Socket, against requirements for high concurrency, high throughput, fault tolerance and room to scale, on asynchronous async/await and Task-based multithreading
-- Owned the platform’s server side end to end, including its network services and logging, and worked as a client-side developer on the desktop application, built on .NET Framework using WPF and the shared class libraries beneath it
+- Designed and optimised the transport layer carrying an internal automotive test platform, covering serialisation, the wire protocol and the network path over FTP, HTTP and Socket, to requirements for high concurrency, high throughput, fault tolerance and room to scale, on asynchronous async/await and Task-based multithreading
+- Owned the platform’s server side end to end, including its network services and logging, and worked as a client-side developer on the desktop application, built on WPF, .NET Framework and the shared class libraries beneath it
 
 ### .NET Software Engineer — Fujitsu, Jiangsu Fujitsu Telecommunication Technology (JFTT)
 
@@ -53,7 +53,7 @@ Suzhou, Mainland China · November 2019 – February 2022
 
 Shenyang, Manchuria (Mainland China) · March 2018 – November 2019
 
-- Re-engineered Microsoft’s BigInteger onto .NET Core through a full software design and development cycle, establishing the test and verification line behind it and holding the reworked implementation compatible with Microsoft’s own conformance test suite
+- Re-engineered Microsoft’s BigInteger (.NET Core) through a full software design and development cycle, establishing the test and verification line behind it and holding the reworked implementation compatible with Microsoft’s own conformance test suite
 - Released three further C# tools working the pixel, colour and combining-character layers directly, and rebuilt the household network with full redundancy and subnet segmentation behind a software router carried through to completed testing on Debian Linux
 
 ### Software Engineer, Network Administrator — TRIAL, Trial Retail Engineering (T.R.E.)
@@ -61,9 +61,9 @@ Shenyang, Manchuria (Mainland China) · March 2018 – November 2019
 Shenyang Office · Shenyang, Manchuria (Mainland China) · March 2016 – February 2018  
 Joined as an intern, appointed programmer, then moved into R&D department; also as office network administrator
 
-- Developed and maintained the Japanese parent group’s warehouse management system and an internal Activiti workflow system, from the Java web front end down to the stored procedures on Oracle, SQL Server, MySQL and MongoDB, and carried each change into live service, version-controlled in Subversion and tracked in Redmine — the first of two postings run to Japanese industrial standards
-- Specified the department’s AI workstation from hardware selection up and stood up its Ubuntu deep-learning stack in early 2018, on the frameworks then current: CUDA with Caffe, Torch, PyTorch and TensorFlow, several built from source
-- Commissioned to investigate emerging technology and report on its applicability: Docker-based delivery, a Cordova iOS prototype, and Slack integration
+- Developed and maintained the Japanese parent group’s warehouse management system and an internal Activiti workflow system, from the Java web front end down to the stored procedures on Oracle, SQL Server, MySQL and MongoDB, and carried each change into live service, version-controlled in Subversion and tracked in Redmine (the first of two postings run to Japanese industrial standards)
+- Specified the department’s AI workstation from hardware selection up and stood up its Ubuntu deep learning stack in early 2018, on the frameworks then current: CUDA with Caffe, Torch, PyTorch and TensorFlow, several built from source
+- Commissioned to investigate emerging technology and report on its applicability: Docker-based delivery, a Cordova iOS prototype and Slack integration
 
 ## Education and Awards
 
@@ -87,7 +87,7 @@ College of Information and Electrical Engineering
 
 ## Products
 
-**Manju IME** — Shows every form a Manchu letter can take, one card per form, offers six input schemes, and writes standard Unicode only. On Windows it runs on the Text Services Framework through COM interop, with vertical glyph shaping on HarfBuzz and Direct2D rendering. C# (.NET 11).
+**Manju IME** — Shows every form a Manchu letter can take, one card per form, offers six input schemes and writes standard Unicode only. On Windows it runs on the Text Services Framework through COM interop, with vertical glyph shaping on HarfBuzz and Direct2D rendering. C# (.NET 11).
 
 [github.com/MetallicPickaxe/Manju-Script-Input-Method](https://github.com/MetallicPickaxe/Manju-Script-Input-Method)
 
@@ -99,13 +99,13 @@ College of Information and Electrical Engineering
 
 [github.com/MetallicPickaxe/AI-Agent-Harness](https://github.com/MetallicPickaxe/AI-Agent-Harness)
 
-**BigInteger** — Re-engineered Microsoft’s BigInteger from .NET Framework 4.8: internal representation unified onto 64-bit high-precision arrays, engineering and mathematical design simplified and re-optimised, MSTest suite under continuous integration. C# 8.0 (.NET Core 3.0 Preview 7).
+**BigInteger** — Re-engineered Microsoft’s BigInteger (.NET Framework 4.8): internal representation unified onto 64-bit high-precision arrays, engineering and mathematical design simplified and re-optimised, MSTest suite under continuous integration. C# 8.0 (.NET Core 3.0 Preview 7).
 
-*2.0 in development — broader coverage, higher throughput, and a more settled design.*
+*2.0 in development: broader coverage, higher throughput and a more settled design.*
 
 [github.com/MetallicPickaxe/BigInteger](https://github.com/MetallicPickaxe/BigInteger)
 
-**Care-Environment Monitoring** — Personal project extending my Curtin capstone work: an end-to-end assisted-living monitoring system that turns environmental sensing into plain-language summaries care staff can act on, running wholly on the local network so no resident data leaves the building. A codebase in the tens of thousands of lines, still live. Python + C# + TypeScript (Raspberry Pi, SQLite, classical machine learning, a locally hosted language model, Next.js).
+**Care-Environment Monitoring** — Personal project extending my Curtin capstone work: an end-to-end assisted-living monitoring system. It turns environmental sensing into plain-language summaries care staff can act on. It runs wholly on the local network, so no resident data leaves the building. A codebase in the tens of thousands of lines, still live. Python + C# + TypeScript (Raspberry Pi, SQLite, classical machine learning, a locally hosted language model, Next.js).
 
 **Sinitic Kinship Term Calculator** — Derives each address term from word-formation rules, composing 87% of its 90,042 relation chains at runtime; regional variants sit in separate layers labelled by origin. C# (WinUI 3, .NET 11).
 
@@ -113,9 +113,9 @@ College of Information and Electrical Engineering
 
 **CiLu 2.0** — Personal lexicon and note system, extended and upgraded from a Windows Forms suite: SQLite store with a plain-text mirror, tag graph under force-directed layout, deduplication and merge, local AI inference for tagging and similarity judgement, and integration with external cloud APIs. C# (WinUI 3, .NET 11).
 
-**Flashcard** — Vocabulary trainer built on the Free Spaced Repetition Scheduler (FSRS): the version 6 scheduler implemented from scratch in C#, with an Adam optimiser over numerical gradients training its twenty-one model parameters against the reader’s own review history. C# (WinUI 3, .NET 11).
+**Flashcard** — Vocabulary trainer built on the Free Spaced Repetition Scheduler (FSRS): the version 6 scheduler implemented from scratch in C#, with an Adam optimiser over numerical gradients training its 21 model parameters on the reader’s own review history. C# (WinUI 3, .NET 11).
 
-**Photography Mosaic 2.0** — Full rewrite of the mosaic generator: tile matching moved to CIE L\*a\*b\* perceptual colour distance with chi-square histogram comparison; a 3×3 spatial sub-sampling fingerprint and a coarse-to-fine two-stage search remove the need to rescan the tile library; and stripe-streamed BGRA output clears the .NET 2 GiB array limit that capped the original’s output size. C#.
+**Photography Mosaic 2.0** — Full rewrite of the mosaic generator: tile matching moved to CIE L\*a\*b\* perceptual colour distance with chi-square histogram comparison. A 3×3 spatial sub-sampling fingerprint and a coarse-to-fine two-stage search remove the need to rescan the tile library. Stripe-streamed BGRA output clears the C#/.NET 2 GiB array limit that capped the original’s output size. C#.
 
 ## Technical Skills
 
@@ -125,7 +125,7 @@ College of Information and Electrical Engineering
 
 **AI and Compute** — multi-agent orchestration; AI integration (OpenAI, Anthropic; Microsoft, Google); PyTorch; OpenCV; CUDA
 
-**Industrial and Embedded** — CoDeSys; protocols (Modbus, EtherCAT, EtherNet/IP); Raspberry Pi, Arduino; IoT (I2C, SPI, UART, GPIO)
+**Industrial and Embedded** — CODESYS; protocols (Modbus, EtherCAT, EtherNet/IP); Raspberry Pi, Arduino; IoT (I2C, SPI, UART, GPIO)
 
 **Web** — HTML, CSS, JavaScript, Node.js; ASP.NET Core (Razor Pages, MVC, Blazor Server, Wasm, APIs, SignalR, gRPC); Python (Flask, Django, Gradio); Java (JSP, Spring, Activiti); REST
 
