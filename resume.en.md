@@ -45,7 +45,7 @@ Suzhou Industrial Park (Suzhou), Mainland China · March 2022 – December 2022
 
 Suzhou, Mainland China · November 2019 – February 2022
 
-- Built a CODESYS-compatible industrial programming system in C#, Windows Forms and Windows libraries: the host-side software an industrial control installation is programmed from
+- Built a CoDeSys-compatible industrial programming system in C#, Windows Forms and Windows libraries: the host-side software an industrial control installation is programmed from
 - Held the requirements line with the customer directly, from elicitation and analysis through solution proposal and estimation, and ran development, test and delivery to Japanese manufacturing standards across repeated delivery cycles, version-controlled in Subversion and tracked in Redmine
 - As administrator of the development and test hardware estate, ran the machines behind that work
 
@@ -125,7 +125,7 @@ College of Information and Electrical Engineering
 
 **AI and Compute** — multi-agent orchestration; AI integration (OpenAI, Anthropic; Microsoft, Google); PyTorch; OpenCV; CUDA
 
-**Industrial and Embedded** — CODESYS; protocols (Modbus, EtherCAT, EtherNet/IP); Raspberry Pi, Arduino; IoT (I2C, SPI, UART, GPIO)
+**Industrial and Embedded** — CoDeSys; protocols (Modbus, EtherCAT, EtherNet/IP); Raspberry Pi, Arduino; IoT (I2C, SPI, UART, GPIO)
 
 **Web** — HTML, CSS, JavaScript, Node.js; ASP.NET Core (Razor Pages, MVC, Blazor Server, Wasm, APIs, SignalR, gRPC); Python (Flask, Django, Gradio); Java (JSP, Spring, Activiti); REST
 
